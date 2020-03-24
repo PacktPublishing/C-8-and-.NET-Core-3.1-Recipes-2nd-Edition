@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StaticLocalFunction/1.0.0": {
+        "dependencies": {
+          "Bogus": "28.4.4"
+        },
+        "runtime": {
+          "StaticLocalFunction.dll": {}
+        }
+      },
+      "Bogus/28.4.4": {
+        "runtime": {
+          "lib/netstandard2.0/Bogus.dll": {
+            "assemblyVersion": "28.4.4.0",
+            "fileVersion": "28.4.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StaticLocalFunction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bogus/28.4.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L8VKtXaxl7Nh3ITxvoQ5XRZkh6qhflkiEXd6xufyHqHTEjHnA2a/HVftV19UoloeHsinqtwWnTMq9RU9Kcq+mA==",
+      "path": "bogus/28.4.4",
+      "hashPath": "bogus.28.4.4.nupkg.sha512"
+    }
+  }
+}

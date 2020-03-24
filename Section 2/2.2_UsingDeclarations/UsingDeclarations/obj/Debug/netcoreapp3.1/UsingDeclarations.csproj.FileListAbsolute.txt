@@ -1,0 +1,12 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\bin\Debug\netcoreapp3.1\UsingDeclarations.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\bin\Debug\netcoreapp3.1\UsingDeclarations.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\bin\Debug\netcoreapp3.1\UsingDeclarations.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\bin\Debug\netcoreapp3.1\UsingDeclarations.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\bin\Debug\netcoreapp3.1\UsingDeclarations.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\bin\Debug\netcoreapp3.1\UsingDeclarations.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\obj\Debug\netcoreapp3.1\UsingDeclarations.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\obj\Debug\netcoreapp3.1\UsingDeclarations.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\obj\Debug\netcoreapp3.1\UsingDeclarations.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\obj\Debug\netcoreapp3.1\UsingDeclarations.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\obj\Debug\netcoreapp3.1\UsingDeclarations.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 2\UsingDeclarations\UsingDeclarations\bin\Debug\netcoreapp3.1\helloworld.txt

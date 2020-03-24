@@ -1,0 +1,11 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 1\PatternSwitch\PatternSwitch\bin\Debug\netcoreapp3.1\PatternSwitch.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 1\PatternSwitch\PatternSwitch\bin\Debug\netcoreapp3.1\PatternSwitch.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 1\PatternSwitch\PatternSwitch\bin\Debug\netcoreapp3.1\PatternSwitch.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 1\PatternSwitch\PatternSwitch\bin\Debug\netcoreapp3.1\PatternSwitch.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 1\PatternSwitch\PatternSwitch\bin\Debug\netcoreapp3.1\PatternSwitch.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 1\PatternSwitch\PatternSwitch\bin\Debug\netcoreapp3.1\PatternSwitch.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 1\PatternSwitch\PatternSwitch\obj\Debug\netcoreapp3.1\PatternSwitch.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 1\PatternSwitch\PatternSwitch\obj\Debug\netcoreapp3.1\PatternSwitch.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 1\PatternSwitch\PatternSwitch\obj\Debug\netcoreapp3.1\PatternSwitch.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 1\PatternSwitch\PatternSwitch\obj\Debug\netcoreapp3.1\PatternSwitch.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 1\PatternSwitch\PatternSwitch\obj\Debug\netcoreapp3.1\PatternSwitch.pdb

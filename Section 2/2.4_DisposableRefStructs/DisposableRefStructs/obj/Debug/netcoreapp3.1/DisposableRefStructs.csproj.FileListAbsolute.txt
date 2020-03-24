@@ -1,0 +1,13 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\bin\Debug\netcoreapp3.1\DisposableRefStructs.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\obj\Debug\netcoreapp3.1\DisposableRefStructs.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\obj\Debug\netcoreapp3.1\DisposableRefStructs.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\obj\Debug\netcoreapp3.1\DisposableRefStructs.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\bin\Debug\netcoreapp3.1\DisposableRefStructs.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\bin\Debug\netcoreapp3.1\DisposableRefStructs.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\bin\Debug\netcoreapp3.1\DisposableRefStructs.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\bin\Debug\netcoreapp3.1\DisposableRefStructs.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\bin\Debug\netcoreapp3.1\DisposableRefStructs.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\bin\Debug\netcoreapp3.1\Bogus.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\obj\Debug\netcoreapp3.1\DisposableRefStructs.csproj.CopyComplete
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\obj\Debug\netcoreapp3.1\DisposableRefStructs.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 4\DisposableRefStructs\DisposableRefStructs\obj\Debug\netcoreapp3.1\DisposableRefStructs.pdb

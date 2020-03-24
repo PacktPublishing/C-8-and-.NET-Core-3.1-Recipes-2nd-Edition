@@ -1,0 +1,11 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 5\AsyncStreams\AsyncStreams\obj\Debug\netcoreapp3.1\AsyncStreams.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 5\AsyncStreams\AsyncStreams\obj\Debug\netcoreapp3.1\AsyncStreams.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 5\AsyncStreams\AsyncStreams\obj\Debug\netcoreapp3.1\AsyncStreams.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 5\AsyncStreams\AsyncStreams\bin\Debug\netcoreapp3.1\AsyncStreams.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 5\AsyncStreams\AsyncStreams\bin\Debug\netcoreapp3.1\AsyncStreams.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 5\AsyncStreams\AsyncStreams\bin\Debug\netcoreapp3.1\AsyncStreams.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 5\AsyncStreams\AsyncStreams\bin\Debug\netcoreapp3.1\AsyncStreams.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 5\AsyncStreams\AsyncStreams\bin\Debug\netcoreapp3.1\AsyncStreams.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 5\AsyncStreams\AsyncStreams\bin\Debug\netcoreapp3.1\AsyncStreams.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 5\AsyncStreams\AsyncStreams\obj\Debug\netcoreapp3.1\AsyncStreams.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 5\AsyncStreams\AsyncStreams\obj\Debug\netcoreapp3.1\AsyncStreams.pdb

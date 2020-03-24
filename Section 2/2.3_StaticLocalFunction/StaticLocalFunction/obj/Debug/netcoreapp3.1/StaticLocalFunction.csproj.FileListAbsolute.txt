@@ -1,0 +1,13 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\bin\Debug\netcoreapp3.1\StaticLocalFunction.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\obj\Debug\netcoreapp3.1\StaticLocalFunction.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\obj\Debug\netcoreapp3.1\StaticLocalFunction.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\obj\Debug\netcoreapp3.1\StaticLocalFunction.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\bin\Debug\netcoreapp3.1\StaticLocalFunction.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\bin\Debug\netcoreapp3.1\StaticLocalFunction.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\bin\Debug\netcoreapp3.1\StaticLocalFunction.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\bin\Debug\netcoreapp3.1\StaticLocalFunction.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\bin\Debug\netcoreapp3.1\StaticLocalFunction.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\bin\Debug\netcoreapp3.1\Bogus.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\obj\Debug\netcoreapp3.1\StaticLocalFunction.csproj.CopyComplete
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\obj\Debug\netcoreapp3.1\StaticLocalFunction.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 2\Video 3\StaticLocalFunction\StaticLocalFunction\obj\Debug\netcoreapp3.1\StaticLocalFunction.pdb
