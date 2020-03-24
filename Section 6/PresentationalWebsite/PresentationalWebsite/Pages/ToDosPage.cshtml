@@ -1,0 +1,24 @@
+﻿@page
+@model PresentationalWebsite.ToDosPageModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ToDosPage</title>
+</head>
+<body>
+    <ul>
+        @foreach(var t in Model.ToDos)
+        {
+            <li>
+                @t.Title
+            </li>
+        }
+    </ul>
+</body>
+</html>

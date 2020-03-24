@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dimlucas\\Google Drive\\Documents\\Packt\\C# 8 and .NET Core 3.1 Recipes\\Section 6\\ToDoBlazor\\ToDoBlazor\\ToDoBlazor.csproj": {}
+  },
+  "projects": {
+    "D:\\dimlucas\\Google Drive\\Documents\\Packt\\C# 8 and .NET Core 3.1 Recipes\\Section 6\\ToDoBlazor\\ToDoBlazor\\ToDoBlazor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\C# 8 and .NET Core 3.1 Recipes\\Section 6\\ToDoBlazor\\ToDoBlazor\\ToDoBlazor.csproj",
+        "projectName": "ToDoBlazor",
+        "projectPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\C# 8 and .NET Core 3.1 Recipes\\Section 6\\ToDoBlazor\\ToDoBlazor\\ToDoBlazor.csproj",
+        "packagesPath": "C:\\Users\\dimlu\\.nuget\\packages\\",
+        "outputPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\C# 8 and .NET Core 3.1 Recipes\\Section 6\\ToDoBlazor\\ToDoBlazor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dimlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Blazor": {
+              "target": "Package",
+              "version": "[3.0.0-preview9.19465.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview9.19465.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview9.19465.2, )"
+            },
+            "Microsoft.AspNetCore.Blazor.HttpClient": {
+              "target": "Package",
+              "version": "[3.0.0-preview9.19465.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+﻿@page "/todos";
+@inject IJSRuntime JSRuntime;
+@using ToDoBlazor.Models;
+
+<style>
+    .list-group-item.completed {
+        background-color: lawngreen;
+        color: white;
+    }
+</style>
+
+<h3>ToDos</h3>
+
+<div class="row">
+    <div class="col-12 d-flex justify-content-center">
+        <ul class="list-group">
+            @foreach (var t in Todos)
+            {
+                @if(t.Completed)
+                {
+                    <li class="list-group-item completed">
+                        @t.Title
+                    </li>
+                }
+                else
+                {
+                    <li class="list-group-item">
+                        @t.Title
+                    </li>
+                }
+            }
+        </ul>
+    </div>
+</div>
+
+<button class="btn btn-primary" @onclick="RunFetch">Fetch Todos Using JavaScript</button>
+<button class="btn btn-outline-warning" @onclick="TodayFormatted">Today Formatted</button>
+
+@code {
+    public IEnumerable<ToDo> Todos { get; set; } = new List<ToDo>();
+
+    protected async Task RunFetch()
+    {
+        Todos = await JSRuntime.InvokeAsync<IEnumerable<ToDo>>("fetchToDos");
+    }
+
+    protected void TodayFormatted()
+    {
+        JSRuntime.InvokeVoidAsync("getTodayFormatted");
+    }
+}
