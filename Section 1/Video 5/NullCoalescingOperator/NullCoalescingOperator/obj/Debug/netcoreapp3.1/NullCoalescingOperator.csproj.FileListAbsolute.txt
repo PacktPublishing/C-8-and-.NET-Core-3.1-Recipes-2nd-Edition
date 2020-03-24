@@ -1,0 +1,11 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 5\NullCoalescingOperator\NullCoalescingOperator\bin\Debug\netcoreapp3.1\NullCoalescingOperator.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 5\NullCoalescingOperator\NullCoalescingOperator\bin\Debug\netcoreapp3.1\NullCoalescingOperator.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 5\NullCoalescingOperator\NullCoalescingOperator\bin\Debug\netcoreapp3.1\NullCoalescingOperator.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 5\NullCoalescingOperator\NullCoalescingOperator\bin\Debug\netcoreapp3.1\NullCoalescingOperator.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 5\NullCoalescingOperator\NullCoalescingOperator\bin\Debug\netcoreapp3.1\NullCoalescingOperator.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 5\NullCoalescingOperator\NullCoalescingOperator\bin\Debug\netcoreapp3.1\NullCoalescingOperator.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 5\NullCoalescingOperator\NullCoalescingOperator\obj\Debug\netcoreapp3.1\NullCoalescingOperator.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 5\NullCoalescingOperator\NullCoalescingOperator\obj\Debug\netcoreapp3.1\NullCoalescingOperator.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 5\NullCoalescingOperator\NullCoalescingOperator\obj\Debug\netcoreapp3.1\NullCoalescingOperator.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 5\NullCoalescingOperator\NullCoalescingOperator\obj\Debug\netcoreapp3.1\NullCoalescingOperator.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 5\NullCoalescingOperator\NullCoalescingOperator\obj\Debug\netcoreapp3.1\NullCoalescingOperator.pdb

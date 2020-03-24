@@ -1,0 +1,11 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 4\RangesAndIndices\RangesAndIndices\bin\Debug\netcoreapp3.1\RangesAndIndices.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 4\RangesAndIndices\RangesAndIndices\bin\Debug\netcoreapp3.1\RangesAndIndices.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 4\RangesAndIndices\RangesAndIndices\bin\Debug\netcoreapp3.1\RangesAndIndices.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 4\RangesAndIndices\RangesAndIndices\bin\Debug\netcoreapp3.1\RangesAndIndices.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 4\RangesAndIndices\RangesAndIndices\bin\Debug\netcoreapp3.1\RangesAndIndices.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 4\RangesAndIndices\RangesAndIndices\bin\Debug\netcoreapp3.1\RangesAndIndices.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 4\RangesAndIndices\RangesAndIndices\obj\Debug\netcoreapp3.1\RangesAndIndices.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 4\RangesAndIndices\RangesAndIndices\obj\Debug\netcoreapp3.1\RangesAndIndices.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 4\RangesAndIndices\RangesAndIndices\obj\Debug\netcoreapp3.1\RangesAndIndices.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 4\RangesAndIndices\RangesAndIndices\obj\Debug\netcoreapp3.1\RangesAndIndices.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 4\RangesAndIndices\RangesAndIndices\obj\Debug\netcoreapp3.1\RangesAndIndices.pdb

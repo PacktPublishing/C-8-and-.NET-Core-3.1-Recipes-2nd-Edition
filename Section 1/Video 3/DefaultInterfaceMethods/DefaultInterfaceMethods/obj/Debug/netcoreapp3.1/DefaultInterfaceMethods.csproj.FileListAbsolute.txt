@@ -1,0 +1,9 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 3\DefaultInterfaceMethods\DefaultInterfaceMethods\bin\Debug\netcoreapp3.1\DefaultInterfaceMethods.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 3\DefaultInterfaceMethods\DefaultInterfaceMethods\obj\Debug\netcoreapp3.1\DefaultInterfaceMethods.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 3\DefaultInterfaceMethods\DefaultInterfaceMethods\obj\Debug\netcoreapp3.1\DefaultInterfaceMethods.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 3\DefaultInterfaceMethods\DefaultInterfaceMethods\obj\Debug\netcoreapp3.1\DefaultInterfaceMethods.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 3\DefaultInterfaceMethods\DefaultInterfaceMethods\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 3\DefaultInterfaceMethods\DefaultInterfaceMethods\bin\Debug\netcoreapp3.1\Sentry.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 3\DefaultInterfaceMethods\DefaultInterfaceMethods\bin\Debug\netcoreapp3.1\Sentry.PlatformAbstractions.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 3\DefaultInterfaceMethods\DefaultInterfaceMethods\bin\Debug\netcoreapp3.1\Sentry.Protocol.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 1\Video 3\DefaultInterfaceMethods\DefaultInterfaceMethods\obj\Debug\netcoreapp3.1\DefaultInterfaceMethods.csproj.CopyComplete
