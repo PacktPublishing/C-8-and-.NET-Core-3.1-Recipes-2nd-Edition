@@ -1,0 +1,11 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 2\ActionAndFunc\ActionAndFunc\bin\Debug\netcoreapp3.1\ActionAndFunc.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 2\ActionAndFunc\ActionAndFunc\bin\Debug\netcoreapp3.1\ActionAndFunc.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 2\ActionAndFunc\ActionAndFunc\bin\Debug\netcoreapp3.1\ActionAndFunc.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 2\ActionAndFunc\ActionAndFunc\bin\Debug\netcoreapp3.1\ActionAndFunc.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 2\ActionAndFunc\ActionAndFunc\bin\Debug\netcoreapp3.1\ActionAndFunc.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 2\ActionAndFunc\ActionAndFunc\bin\Debug\netcoreapp3.1\ActionAndFunc.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 2\ActionAndFunc\ActionAndFunc\obj\Debug\netcoreapp3.1\ActionAndFunc.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 2\ActionAndFunc\ActionAndFunc\obj\Debug\netcoreapp3.1\ActionAndFunc.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 2\ActionAndFunc\ActionAndFunc\obj\Debug\netcoreapp3.1\ActionAndFunc.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 2\ActionAndFunc\ActionAndFunc\obj\Debug\netcoreapp3.1\ActionAndFunc.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 2\ActionAndFunc\ActionAndFunc\obj\Debug\netcoreapp3.1\ActionAndFunc.pdb

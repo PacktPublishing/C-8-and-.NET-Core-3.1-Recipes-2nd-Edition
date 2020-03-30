@@ -1,0 +1,13 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\obj\Debug\netcoreapp3.1\AnonymousTypes.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\obj\Debug\netcoreapp3.1\AnonymousTypes.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\obj\Debug\netcoreapp3.1\AnonymousTypes.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\bin\Debug\netcoreapp3.1\AnonymousTypes.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\obj\Debug\netcoreapp3.1\AnonymousTypes.csproj.CopyComplete
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\obj\Debug\netcoreapp3.1\AnonymousTypes.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 3\AnonymousTypes\AnonymousTypes\obj\Debug\netcoreapp3.1\AnonymousTypes.pdb

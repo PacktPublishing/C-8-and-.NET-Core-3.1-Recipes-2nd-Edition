@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\dimlu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\C# 8 and .NET Core 3.1 Recipes\\Section 3\\Video 4\\LambdaExpressions\\LambdaExpressions\\LambdaExpressions.csproj",
+      "projectName": "LambdaExpressions",
+      "projectPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\C# 8 and .NET Core 3.1 Recipes\\Section 3\\Video 4\\LambdaExpressions\\LambdaExpressions\\LambdaExpressions.csproj",
+      "packagesPath": "C:\\Users\\dimlu\\.nuget\\packages\\",
+      "outputPath": "D:\\dimlucas\\Google Drive\\Documents\\Packt\\C# 8 and .NET Core 3.1 Recipes\\Section 3\\Video 4\\LambdaExpressions\\LambdaExpressions\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dimlu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 4\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 4\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 4\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 4\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 4\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 4\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 4\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 4\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 4\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 4\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 4\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.pdb

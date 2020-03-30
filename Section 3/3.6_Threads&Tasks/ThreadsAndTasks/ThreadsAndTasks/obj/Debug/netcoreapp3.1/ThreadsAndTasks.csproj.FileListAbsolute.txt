@@ -1,0 +1,11 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 6\ThreadsAndTasks\ThreadsAndTasks\bin\Debug\netcoreapp3.1\ThreadsAndTasks.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 6\ThreadsAndTasks\ThreadsAndTasks\bin\Debug\netcoreapp3.1\ThreadsAndTasks.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 6\ThreadsAndTasks\ThreadsAndTasks\bin\Debug\netcoreapp3.1\ThreadsAndTasks.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 6\ThreadsAndTasks\ThreadsAndTasks\bin\Debug\netcoreapp3.1\ThreadsAndTasks.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 6\ThreadsAndTasks\ThreadsAndTasks\bin\Debug\netcoreapp3.1\ThreadsAndTasks.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 6\ThreadsAndTasks\ThreadsAndTasks\bin\Debug\netcoreapp3.1\ThreadsAndTasks.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 6\ThreadsAndTasks\ThreadsAndTasks\obj\Debug\netcoreapp3.1\ThreadsAndTasks.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 6\ThreadsAndTasks\ThreadsAndTasks\obj\Debug\netcoreapp3.1\ThreadsAndTasks.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 6\ThreadsAndTasks\ThreadsAndTasks\obj\Debug\netcoreapp3.1\ThreadsAndTasks.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 6\ThreadsAndTasks\ThreadsAndTasks\obj\Debug\netcoreapp3.1\ThreadsAndTasks.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 6\ThreadsAndTasks\ThreadsAndTasks\obj\Debug\netcoreapp3.1\ThreadsAndTasks.pdb

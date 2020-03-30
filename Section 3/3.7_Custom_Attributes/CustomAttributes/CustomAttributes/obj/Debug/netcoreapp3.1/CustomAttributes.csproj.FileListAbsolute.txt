@@ -1,0 +1,11 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 7\CustomAttributes\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 7\CustomAttributes\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 7\CustomAttributes\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 7\CustomAttributes\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 7\CustomAttributes\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 7\CustomAttributes\CustomAttributes\bin\Debug\netcoreapp3.1\CustomAttributes.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 7\CustomAttributes\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 7\CustomAttributes\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 7\CustomAttributes\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 7\CustomAttributes\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 7\CustomAttributes\CustomAttributes\obj\Debug\netcoreapp3.1\CustomAttributes.pdb

@@ -1,0 +1,11 @@
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 1\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.exe
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 1\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.deps.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 1\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 1\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.dev.json
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 1\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 1\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 1\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csprojAssemblyReference.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 1\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfoInputs.cache
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 1\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfo.cs
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 1\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.dll
+D:\dimlucas\Google Drive\Documents\Packt\C# 8 and .NET Core 3.1 Recipes\Section 3\Video 1\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.pdb
